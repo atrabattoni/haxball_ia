@@ -24,6 +24,7 @@ with mss.mss() as sct:
 
         fps = 1 / (time.time() - t0)
         print(fps)
+
         # cv2.imshow('output', img)
         # if cv2.waitKey(10) & 0xFF == ord("q"):
         #     cv2.destroyAllWindows()

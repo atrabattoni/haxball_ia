@@ -1,3 +1,7 @@
+'''
+List of colors used to find usefull features.
+'''
+
 import numpy as np
 
 green = np.array([92, 139, 114], dtype='uint8')

@@ -1,3 +1,7 @@
+'''
+Make decision based on players and ball locations.
+'''
+
 import key
 
 

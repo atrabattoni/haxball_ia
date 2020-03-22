@@ -1,3 +1,7 @@
+'''
+Control the keyboard.
+'''
+
 import pyautogui as pag
 pag.PAUSE = 0
 
